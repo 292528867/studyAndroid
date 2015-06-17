@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yk/Downloads/TopNews/topNews/build/intermediates/exploded-aar/TopNews/library_SlidingMenu/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="52ba1dd435f666856bf9f89e2629913cc2f839d5">
+        <dex dex="/Users/yk/Downloads/TopNews/topNews/build/intermediates/pre-dexed/debug/classes-fca2d36e0c305bbc2553e100a89acc51aa09dc30.jar" />
+    </item>
+    <item
+        jar="/Users/yk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/yk/Downloads/TopNews/topNews/build/intermediates/pre-dexed/debug/support-v4-18.0.0-66767ee1043421437e608e10241dbf8be68596f4.jar" />
+    </item>
+    <item
+        jar="/Users/yk/Downloads/TopNews/topNews/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/Users/yk/Downloads/TopNews/topNews/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources-81178acd6e90542479f18e42b176e22cccb79c57.jar" />
+    </item>
+
+</items>
